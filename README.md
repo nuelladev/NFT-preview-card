@@ -34,17 +34,6 @@ I built this project using HTML and CSS to create the layout and design of the c
 - CSS
 - JavaScript
 
-## What I Learned
-Throughout this project, I learned to use the adjacent sibling selector in CSS to make the view icon appear on hover:
-
-```css
-.view {
-  display: none;
-}
-
-.image-container:hover .overlay + .view {
-  display: block;
-}
 
 ## Author
 - Website: [Emmanuella Okafor](https://emmanuella.hashnode.dev/)

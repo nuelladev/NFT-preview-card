@@ -23,7 +23,7 @@ Users should be able to:
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Links
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-using-html-css-and-flexbox-GeBShcdRZ)
+- [Challenge URL](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 - [Live Site URL](https://nuelladev.github.io/NFT-preview-card/)
 
 ## My Process
